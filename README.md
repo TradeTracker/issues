@@ -6,6 +6,10 @@ This repository is used to track the issues for [beta.tradetracker.app](http://b
 
 If you encounter an issue/bug, or have an idea, please create an issue in this repository! Thanks in advance! 😄
 
+## Release notes
+
+You can [find our release notes here](https://docs.tradetracker.app/release-notes).
+
 ## Roadmap
 
 A roadmap will be added soon!
