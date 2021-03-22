@@ -9,7 +9,3 @@ If you encounter an issue/bug, or have an idea, please create an issue in this r
 ## Release notes
 
 You can [find our release notes here](https://docs.tradetracker.app/release-notes).
-
-## Roadmap
-
-A roadmap will be added soon!
