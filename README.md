@@ -4,7 +4,7 @@ This repository is used to track the issues for [beta.tradetracker.app](http://b
 
 ## Issues
 
-If you encounter an issue/bug, or have an idea, please create an issue in this repository! Thanks in advance! 😄
+If you encounter an issue/bug, or have an idea, please create an issue in this repository! Please leave a thumbs up, some emoji, or a comment, to give me an idea of which should be implemented first. Thanks in advance! 😄
 
 ## Release notes
 
